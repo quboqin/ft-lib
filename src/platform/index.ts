@@ -1,0 +1,7 @@
+export enum SERVER {
+  HEROKU = 'HEROKU',
+  AWS = 'AWS',
+  ALIYUN = 'ALIYUN',
+  ORACLE = 'ORACLE',
+  LOCALHOST = 'LOCALHOST',
+}
